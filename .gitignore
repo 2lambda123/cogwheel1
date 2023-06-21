@@ -6,6 +6,7 @@ cogwheel/data/gwosc_files
 cogwheel/data/gwosc_files/*
 
 cogwheel/factorized_qas/data/extrinsic_samples_*.npz
+.idea/
 
 *.pyc
 __pycache__
